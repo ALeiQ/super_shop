@@ -25,7 +25,7 @@
 	<div class="main">
 		<div class="optitle clearfix">
 			<em><input type="button" name="button" value="添加数据"
-				class="input-button" onclick="location.href='accountmodify.jsp'" /></em>
+				class="input-button" onclick="location.href='accountAdd.jsp'" /></em>
 			<div class="title">账单管理&gt;&gt;</div>
 		</div>
 		<div class="content">
